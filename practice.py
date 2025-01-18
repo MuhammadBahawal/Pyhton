@@ -1,4 +1,10 @@
 # print("hello world")
+# print('''akkfuuwawuatuewt
+#       aksyiaygc
+#       aufsdsafuweuog
+#       diyuyguaytwe
+#       iasei''')
+
 # print("""Twinkle twinkle little star How I wonder what you are
 # Up above the world so high
 # Like a diamond in the sky
@@ -23,7 +29,24 @@
 # Though I know not what you are,
 # Twinkle, twinkle, little star.""")
 
-import pyttsx3
-engin=pyttsx3.init()
-engin.say("hello how are you bahawal")
-engin.runAndWait()
+# a = 10
+# b = 20
+# name = 'hello'
+# print(name[0])
+# print(type(name))
+
+# string methods
+
+first_name = "Ahmad"
+print(len(first_name))
+print(first_name.startswith("Ah"))
+print(first_name.endswith("ad"))
+print(first_name.capitalize())
+
+# list 
+
+# students = ["usman",10,"Software", "Engineering"]
+# print(students[0])
+
+# slicing 
+# print(students[1:3])
