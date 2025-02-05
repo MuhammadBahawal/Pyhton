@@ -20,3 +20,5 @@ class student(teacher):
 myobj = student()
 
 myobj.sum(4,5)
+
+
