@@ -1,4 +1,6 @@
 class student :
+   
+   
     sub = "BSSE"
 # instance method
     def __init__(self,name,age):
