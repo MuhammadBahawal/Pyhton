@@ -28,8 +28,8 @@
 
 # list comprehension
 
-# count = [x for x in range(1,9)]
-# print(count)
+count = [i for i in range(1,9)]
+print(count)
 
 # task
 # sum of elements

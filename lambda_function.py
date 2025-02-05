@@ -8,3 +8,7 @@
 
 sum = lambda a,b:a+b
 print(sum(4,5))
+
+sub = lambda a,b:a-b
+
+print(sub(1,2))

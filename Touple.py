@@ -2,14 +2,18 @@ names = ("ahmad",'Adell','usman','shehryar')
 print(names)
 
 # touple methods 
+
 # count(): Returns the number of times a specified element appears in the tuple.
 # index(): Returns the index of the first occurrence of a specified element.
 
-counting = (1,63,142,84,2,3,6,7,8,99,5,3,4,6,7,7,)
-check = counting.count(7)
-check1 = counting.index(1)
-print(check)
-print(check1)
+# counting = (1,63,142,84,2,3,6,7,8,99,5,3,4,6,7,7,)
+# check = counting.count(7)
+# check1 = counting.index(1)
+# print(check)
+# print(check1)
+
+
+
 
 # Operations in touple
 

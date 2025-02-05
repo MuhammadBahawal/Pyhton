@@ -15,7 +15,8 @@
 #     count += 1
 
 
-Name = ["Ali","Ahmad","umar","Alihan"]
-for i in Name:
-    if(i.startswith('A')):
-        print(f"name start from a is {i} ")
+# Name = ["Ali","Ahmad","umar","Alihan"]
+# for i in Name:
+#     if(i.startswith('A')):
+#         print(f"name start from a is {i} ")
+
