@@ -1,6 +1,5 @@
 #A closure is a function that remembers variables from
 # its enclosing scope even after the scope has finished executing. 
-
 def outer_function(x):
     def inner_function():
         print(f"Value of x is: {x}")  # Inner function remembers 'x'
