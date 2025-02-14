@@ -1,1 +1,1 @@
-Excaption handling task and we can easily handle file i/o
+Excaption handling task and we can easily handle file i/o you can add or delete data in a file 
